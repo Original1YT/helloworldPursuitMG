@@ -27,3 +27,4 @@ print(f"There are currently {number_of_characters} characters in the world")
 world.characters.append("tank1")
 number_of_characters = len(world.characters)
 print(f"Now there are {number_of_characters} characters in the world")
+#this is a comment
